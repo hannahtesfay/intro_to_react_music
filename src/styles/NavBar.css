@@ -1,0 +1,33 @@
+nav {
+    text-align: center;
+    padding: 30px;
+}
+
+.navlink { 
+    margin: 0 10px;
+    padding: 10px;
+    color: gold;
+    text-decoration: none;
+    border: 2px solid gold;
+    border-radius: 10px;
+    font-weight: bold;
+    transition: 0.5 ease;
+}
+
+.navlink:hover {
+    color: rgb(238, 204, 10);
+    border: 2px solid rgb(238, 204, 10);
+    transition: 0.5s ease;
+}
+
+.current {
+    font-weight: bold;
+    background-color: gold;
+    color: white;
+    transition: ease;
+}
+
+.current:hover {
+    background-color: rgb(238, 204, 10);
+    color: white;
+}

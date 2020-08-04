@@ -1,0 +1,9 @@
+.page404 p {
+    color: rgb(190, 151, 151);
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.page404 {
+    text-align: center;
+}
